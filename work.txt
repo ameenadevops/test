@@ -1,7 +1,3 @@
-welcome to devops
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title>Flipkart shopping website</title>
